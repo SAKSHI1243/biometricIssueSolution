@@ -14,13 +14,4 @@ BiometricFail360 is a Random Forest–based model that:
 - Produces a risk score (0–1) for each PIN code
 - Identifies 79,377 high-risk PIN codes for intervention
 
-## 3. Repository Structure
 
-(then paste the tree from above)
-
-## 4. How to Run
-
-```bash
-git clone https://github.com/<your-user>/BiometricFail360.git
-cd BiometricFail360
-pip install -r requirements.txt
